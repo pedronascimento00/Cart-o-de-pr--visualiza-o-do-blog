@@ -1,0 +1,57 @@
+/* Configurações Gerais*/
+body{
+    background-color: #f4d04e;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+/*Cards*/
+.card{
+    background-color: white;
+    width: 320px;
+    padding: 24px;
+    border: 1px solid black;
+    /*sombra sólida caracteristica*/
+    box-shadow: 8px 8px 0px 0px rgba(0, 0, 0, 1);
+}
+.hero-img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+/*Badge Amarela */
+.badge{
+    background-color: #f4d04e;
+    font-weight: bold;
+    padding: 4px 12px;
+    border-radius: 4px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+h1{
+    font-size: 22px;
+    margin: 15px 0;
+    cursor: pointer;
+    }
+h1:hover{
+    color: #f4d04e;/*efeito de um hover comum*/
+}
+.description{
+    color: #7f7f7f;
+    line-height: 1.5;
+}
+.author{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    gap:112px;
+}
+.author img{
+ width: 32px;
+ height: 32px;   
+}

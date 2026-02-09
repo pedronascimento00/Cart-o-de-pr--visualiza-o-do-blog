@@ -1,121 +1,68 @@
-# Frontend Mentor - Blog preview card solution
+Um bom arquivo `README.md` é essencial para qualquer projeto no GitHub. Ele serve como o "cartão de visitas" do seu código.
 
-This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Aqui está um modelo completo e profissional, formatado especialmente para este desafio do **Frontend Mentor**:
 
-## Table of contents
+---
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-  - [AI Collaboration](#ai-collaboration)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+# 📑 Frontend Mentor - Blog Preview Card
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+Esta é uma solução para o desafio [Blog preview card no Frontend Mentor](https://www.google.com/search?q=https://www.frontendmentor.io/challenges/blog-preview-card-ckP9_QCcbH). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação construindo projetos realistas.
 
-## Overview
+## 🚀 O Projeto
 
-### The challenge
+O objetivo deste projeto foi construir um card de visualização de blog o mais próximo possível do design original, focando em conceitos de **HTML Semântico**, **CSS Flexbox** e o estilo visual **Neo-brutalista**.
 
-Users should be able to:
+*(Dica: tire um print do seu projeto pronto e coloque nesta pasta!)*
 
-- See hover and focus states for all interactive elements on the page
+## 🛠️ Tecnologias Utilizadas
 
-### Screenshot
+* **HTML5** - Estrutura semântica.
+* **CSS3** - Estilização e layout.
+* **Google Fonts** - Fonte *Figtree*.
+* **Flexbox** - Para centralização e alinhamento de elementos.
 
-![](./screenshot.jpg)
+## 💡 O que eu aprendi
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+Durante o desenvolvimento deste card, foquei em:
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+1. **Box Model:** Entender como o `padding`, `border` e `margin` trabalham juntos para criar o espaçamento perfeito.
+2. **Sombras Sólidas (Hard Shadows):** Como usar `box-shadow` sem desfoque (blur) para criar um visual moderno.
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
+box-shadow: 8px 8px 0px 0px #000;
+
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+3. **Hover States:** Adicionar interatividade simples no título e na sombra do card.
 
-### Continued development
+## 🎨 Cores Utilizadas
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+| Cor | Hex |
+| --- | --- |
+| Amarelo (Primary) | `#F4D04E` |
+| Branco (White) | `#FFFFFF` |
+| Cinza (Grey) | `#7F7F7F` |
+| Preto (Black) | `#000000` |
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+## 🏁 Como rodar o projeto
 
-### Useful resources
+1. Clone este repositório ou baixe os arquivos.
+2. Certifique-se de que as imagens estão na pasta `assets/images/`.
+3. Abra o arquivo `index.html` em qualquer navegador.
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+---
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+### 👨‍💻 Autor
 
-### AI Collaboration
+Desenvolvido por **[Seu Nome]**.
 
-Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
+* Frontend Mentor - [@seu-usuario](https://www.google.com/search?q=https://www.frontendmentor.io/profile/seu-usuario)
+* LinkedIn - [Seu Perfil](https://www.google.com/search?q=https://www.linkedin.com/in/seu-perfil)
 
-- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
-- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?
-- What worked well? What didn't?
+---
 
-**Note: Delete this note and the content above if you didn't use AI, or replace with your own experience.**
+### Dica de ouro para o seu README:
 
-## Author
+Para que o README fique realmente profissional no seu GitHub, eu recomendo que você tire um print da tela do projeto pronto e salve como `screenshot.png` dentro da pasta `assets/images/`. Assim, quem visitar o seu repositório verá o projeto antes mesmo de abrir o código!
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+**Quer que eu te ajude a escrever a descrição do seu perfil para o LinkedIn sobre esse projeto?**
